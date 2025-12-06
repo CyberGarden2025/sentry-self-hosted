@@ -7,6 +7,8 @@
 # Mail Server #
 ###############
 
+system.url-prefix: "https://sentry.k-lab.su"
+
 # mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
 mail.host: 'smtp'
 # mail.port: 25
